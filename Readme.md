@@ -15,6 +15,7 @@ docker-compose up -d
 - `PUT /pacientes/:id` - Atualiza um paciente existente. Espera um corpo JSON com `id_paciente`, `nome_paciente`, `data_nascimento`, `plano_saude` e `historico_medico`.
 - `DELETE /uspacientesers/:id` - Deleta um paciente pelo ID.
 
+
 ### Exemplos
 
 1. GET /pacientes
