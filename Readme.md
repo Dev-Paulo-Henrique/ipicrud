@@ -6,7 +6,7 @@ Este projeto é uma API para gerenciar informações de pacientes, desenvolvida 
 ```bash
 docker-compose up -d
 ```
-
+ 
 ### Rotas Disponíveis
 
 - `GET /pacientes` - Lista todos os pacientes.
